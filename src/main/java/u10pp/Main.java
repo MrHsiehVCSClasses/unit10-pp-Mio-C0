@@ -12,10 +12,10 @@ public class Main
         // System.out.println(String.format("The %sth Fibonacci Number is: %s", 
         //     5, RecursiveMath.getFibonacciNumber(5)));
 
-        // System.out.println(String.format("%s factorial is: %s", 
+        //System.out.println(String.format("%s factorial is: %s", 
         //     5, RecursiveMath.getFactorial(5)));
 
-        // System.out.println(String.format("%s to the %s is: %s", 
+        //System.out.println(String.format("%s to the %s is: %s", 
         //     4, 3, RecursiveMath.pow(4, 3)));
 
         // System.out.println(String.format("Is %s a palindrome? %s.",

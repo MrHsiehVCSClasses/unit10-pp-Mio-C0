@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 public class RecursivePalindromeCheckerTests {
+    
     @Test
     public void evenPalindrome_returnsTrue() {
         assertAll(
@@ -42,4 +43,5 @@ public class RecursivePalindromeCheckerTests {
             () -> assertFalse(RecursivePalindromeChecker.isPalindrome("abcddefghhhhhiijkkkklmnonmlkkkkjiihhhhgfeddcba"))
         );
     }
+    
 }
